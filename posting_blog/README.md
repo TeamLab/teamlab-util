@@ -6,15 +6,15 @@ TEAMLAB 블로그 운영에 따른 포스팅 방법을 기제해 놓은 곳입�
 
 ### HOW TO UPLOAD MY POSTING
 
-1. Fork teamlab jekyllDecent
+#### 1. Fork teamlab jekyllDecent
     * [Repository](https://github.com/teamlab/jekyllDecent)
 <br>
 
-2. Change your Origin Repository name
+#### 2. Change your Origin Repository name
     * 첫번째로, Setting 부분의 Repository name 부분이 **jekyllDecent** 으로 설정이 되어있는지 확인합니다.
 <br>
 
-3. Check your site is published
+#### 3. Check your site is published
 
 자신의 Origin Repository의 Setting page에서 site가 publish되었는지 확인합니다.<br>
 만약 밑의 이미지와 같이 Your site 의 내용이 보이지 않는다면 Source 에서 Master브랜치로 바꾸어줍니다.<br>
@@ -22,7 +22,7 @@ TEAMLAB 블로그 운영에 따른 포스팅 방법을 기제해 놓은 곳입�
 
 ex) **https://kimjeyoung.github.io/jekyllDecent/** 를 통해서 자신이 작업하는 포스팅을 확인할 수 있습니다.<br>
 
-4. Posting
+#### 4. Posting
 
 ![post_dir](./figure/post.png)
 
@@ -46,7 +46,7 @@ ex) **https://kimjeyoung.github.io/jekyllDecent/** 를 통해서 자신이 작�
 
 위의 이미지는 이미지를 기입하는 방법입니다. 랩블로그의 파일을 효율적으로 관리하기 위해서 경로는 **/media/img/**로 통일시켜주세요.
 
-5. Push
+#### 5. Push
 
 작업을 마친 후 자신의 Origin Repository에 푸쉬를 합니다. 그 후 publish된 site를 통해서 자신이 작업한 결과를 확인한 후 PR을 해주세요.<br>
 
