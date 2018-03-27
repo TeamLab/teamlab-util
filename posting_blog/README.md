@@ -7,11 +7,11 @@ TEAMLAB 블로그 운영에 따른 포스팅 방법을 기제해 놓은 곳입�
 ### HOW TO UPLOAD MY POSTING
 
 #### 1. Fork teamlab jekyllDecent
-    * [Repository](https://github.com/teamlab/jekyllDecent)
+[Repository](https://github.com/teamlab/jekyllDecent)
 <br>
 
 #### 2. Change your Origin Repository name
-    * 첫번째로, Setting 부분의 Repository name 부분이 **jekyllDecent** 으로 설정이 되어있는지 확인합니다.
+첫번째로, Setting 부분의 Repository name 부분이 **jekyllDecent** 으로 설정이 되어있는지 확인합니다.
 <br>
 
 #### 3. Check your site is published
